@@ -19,48 +19,51 @@ Hi! I am Shalini and I am a Data Analyst with over 3 years of experience at Tata
 # Projects at TCS
 ## Project 1: Credit Risk Dashboard & Loan Portfolio Analytics  —  HDFC Bank Client 
 
-Designed a multi-page Power BI dashboard tracking NPA rates, CIBIL score distribution, loan disbursements, and delinquency trends across product segments. 
-Built star-schema data model connecting 8 tables (loans, customers, branches, products, dates); wrote 35+ DAX measures including time-intelligence (YTD, MTD, rolling 12M). 
-Automated data refresh via ADF pipeline from SQL Server to Azure Synapse, enabling daily report updates without manual intervention. 
-Delivered actionable insights that helped the risk team reduce NPAs by 8% within two quarters by identifying high-risk loan segments early. 
-
+* Designed a multi-page Power BI dashboard tracking NPA rates, CIBIL score distribution, loan disbursements, and delinquency trends across product segments.
+* Built star-schema data model connecting 8 tables (loans, customers, branches, products, dates), wrote 35+ DAX measures including time-intelligence (YTD, MTD, rolling 12M).
+* Delivered actionable insights that helped the risk team reduce NPAs by 8% within two quarters by identifying high-risk loan segments early. 
 ## Project 2: Fraud Detection Analytics  —  HDFC Bank Client 
 
-Developed an unsupervised ML anomaly detection model (Isolation Forest) on 2M+ banking transactions to identify fraud patterns and outliers. 
-Wrote SQL stored procedures to load flagged transactions into a review table, enabling compliance teams to act on alerts within 24 hours. 
-Visualized anomaly trends and flagging rates in a Power BI report, enabling the fraud team to monitor detection accuracy over time. 
+* Developed an ML anomaly detection model (Isolation Forest) on 2M+ banking transactions to identify fraud patterns and outliers.
+* Wrote SQL stored procedures to load flagged transactions into a review table, enabling compliance teams to act on alerts within 24 hours.
+* Visualized anomaly trends and flagging rates in a Power BI report, enabling the fraud team to monitor detection of accuracy over time. 
 
 ## P&L Automation & MIS Reporting , TCS Internal
-• Replaced 15 manual Excel MIS reports with a a Python-automated pipeline that extracts data from SQL Server, transforms it, and outputs
-formatted Excel workbooks.
+
+* Replaced 15 manual Excel MIS reports with a Python-automated pipeline that extracts data from SQL Server, transforms it, and outputs formatted Excel workbooks.
+* Designed Excel templates with dynamic pivot tables, slicers, and conditional formatting for CFO-level P&L presentations.
+* Wrote VBA macros to auto-populate monthly commentary fields and protect sensitive financial cells, ensuring audit compliance.
+* Reduced P&L reporting cycle from 5 business days to same-day delivery, eliminating data entry errors entirely. 
+
+
 
 # Projects Built during unemplyoment
 1. Fruad Detection using Linear Regerssion and Random Forest
 
-https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
+   https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
 
 2. Customer Churn using Python
 
-https://github.com/shalinisingh91296-dev/Customer_churn_python
+   https://github.com/shalinisingh91296-dev/Customer_churn_python
 
 3. Coffee Shop sales dashboard using Excel, Power Pivot, and Power Query
 
-https://github.com/shalinisingh91296-dev/Coffee_shop_sales
+   https://github.com/shalinisingh91296-dev/Coffee_shop_sales
 
 4. Fern and Petals Sales dashboard using Excel
 
-https://github.com/shalinisingh91296-dev/fnp_Sales_Performance
+   https://github.com/shalinisingh91296-dev/fnp_Sales_Performance
 
 
 # Product Case Studies and Root Cause Analysis
 
 1. Swiggy_case_study( Drop In Sales)
 
-https://github.com/shalinisingh91296-dev/Swiggy_case_study
+   https://github.com/shalinisingh91296-dev/Swiggy_case_study
 
 2. Make_my_trip_case_study
    
-https://github.com/shalinisingh91296-dev/Make_my_trip_case_study
+   https://github.com/shalinisingh91296-dev/Make_my_trip_case_study
 
 # Other Business Analytics Concepts
 1. Cohort_analysis
@@ -69,7 +72,7 @@ https://github.com/shalinisingh91296-dev/Cohort_analysis
 
 # Certifications
 
-https://github.com/shalinisingh91296-dev/Certifications
+  https://github.com/shalinisingh91296-dev/Certifications
 
 # Courses From YouTube
 
