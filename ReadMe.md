@@ -81,8 +81,22 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
    
    https://github.com/shalinisingh91296-dev/Make_my_trip_case_study
 
+# Business Case Studies for E-Commerce and marketing
+
+1. Funnel Analysis
+2. Marketing Campaigns
+3. Sales Analysis
+
 # Other Business Analytics Concepts
+
 1. Cohort_analysis
+2. Paretto Analysis
+3. Forecasting
+4. Variance Analysis
+5. A/B Testing
+6. Hypothesis Testing
+7. Regression
+8. Correlation and Causation
    
 https://github.com/shalinisingh91296-dev/Cohort_analysis
 
@@ -99,6 +113,7 @@ https://github.com/shalinisingh91296-dev/Cohort_analysis
 5. PySpark and SparkSql by Ansh Lamba
 6. Finacial Modeling and Strategy bu Eric Andrew
 7. Business Intelligence Training by Kara Ronin (ex Deloitte)
+8. Statistics(Descriptive and Inferencial) by WsCube 
    
 
 
