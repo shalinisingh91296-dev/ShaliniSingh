@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi! I am Shalini and I am a Data Analyst with over 3 years of experience at Tata Consultancy Services(TCS), delivering client-facing analytics solutions using SQL, Power BI, Excel, and Python. Experienced in gathering business requirements, building interactive dashboards, and translating complex data into actionable insights for stakeholders. Strong expertise in Banking and Financial Services.
 
+I started my career journey back in December 2021 when I joined TCS as a fresher having zero knowledge about corporate culture. I initially worked as SQL and Python Developer and later on I decided to switch my career into data industry. I had worked as Junior Business Analyst where I supported UAT, BRD, FRD, and collaborated with Product Manger and Sr. Business Analyst for production releases, built reports for compliance authority and for internal audits and had prepared version control documents like FRD, BRD, RTM, and many more. 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shalini-singh-220563335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shalinisingh91296@gmail.com) 
