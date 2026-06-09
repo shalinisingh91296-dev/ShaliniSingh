@@ -69,7 +69,7 @@ formatted Excel workbooks.
 
 # Certifications
 
-[https://github.com/shalinisingh91296-dev/Certifications]
+https://github.com/shalinisingh91296-dev/Certifications
 
 # Courses From YouTube
 
