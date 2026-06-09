@@ -36,31 +36,51 @@ formatted Excel workbooks.
 
 # Projects Built during unemplyoment
 1. Fruad Detection using Linear Regerssion and Random Forest
+
 [https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project]
 
 2. Customer Churn using Python
+
 [https://github.com/shalinisingh91296-dev/Customer_churn_python]
 
 3. Coffee Shop sales dashboard using Excel, Power Pivot, and Power Query
+
 [https://github.com/shalinisingh91296-dev/Coffee_shop_sales]
 
 4. Fern and Petals Sales dashboard using Excel
+
 [https://github.com/shalinisingh91296-dev/fnp_Sales_Performance]
 
 
 # Product Case Studies and Root Cause Analysis
 
 1. Swiggy_case_study( Drop In Sales)
+
 [https://github.com/shalinisingh91296-dev/Swiggy_case_study]
 
 2. Make_my_trip_case_study
+   
 [https://github.com/shalinisingh91296-dev/Make_my_trip_case_study]
 
 # Other Business Analytics Concepts
 1. Cohort_analysis
+   
 [https://github.com/shalinisingh91296-dev/Cohort_analysis]
 
 # Certifications
+
+[https://github.com/shalinisingh91296-dev/Certifications]
+
+# Courses From YouTube
+
+1. Data Analyst Bootcamp by Alex The Analyst
+2. Advanced Excel and Power BI by Paval Lalvani (Big 4 Corporate Trainer)
+3. Advanced Dax by Pavan Lalvani, Yash Khurana, and Goodly
+4. Advanced SQL by Data with Baraa
+5. PySpark and SparkSql by Ansh Lamba
+6. Finacial Modeling and Strategy bu Eric Andrew
+7. Business Intelligence Training by Kara Ronin (ex Deloitte)
+   
 
 
 
