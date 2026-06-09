@@ -53,7 +53,7 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
 
 
 
-# Projects Built During Unemplyoment
+# Projects and Skills Built During Unemplyoment
 1. Fruad Detection using Linear Regerssion and Random Forest
 
    https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
@@ -71,7 +71,7 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
    https://github.com/shalinisingh91296-dev/fnp_Sales_Performance
 
 
-# Product Case Studies and Root Cause Analysis
+## Product Case Studies and Root Cause Analysis
 
 1. Swiggy_case_study( Drop In Sales)
 
@@ -81,13 +81,13 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
    
    https://github.com/shalinisingh91296-dev/Make_my_trip_case_study
 
-# Business Case Studies for E-Commerce and marketing
+## Business Case Studies for E-Commerce and marketing
 
 1. Funnel Analysis
 2. Marketing Campaigns
 3. Sales Analysis
 
-# Other Business Analytics Concepts
+## Other Business Analytics Concepts
 
 1. Cohort_analysis
 2. Paretto Analysis
@@ -100,11 +100,11 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
    
 https://github.com/shalinisingh91296-dev/Cohort_analysis
 
-# Certifications
+## Certifications
 
   https://github.com/shalinisingh91296-dev/Certifications
 
-# Courses From YouTube
+## Courses From YouTube
 
 1. Data Analyst Bootcamp by Alex The Analyst
 2. Advanced Excel and Power BI by Paval Lalvani (Big 4 Corporate Trainer)
