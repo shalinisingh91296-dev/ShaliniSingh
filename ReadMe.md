@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Shalini and I am a Data Analyst with over 3 years of experience at Tata Consultancy Services(TCS), delivering client-facing analytics solutions using SQL, Power BI, Excel, and Python. Experienced in gathering business requirements, building interactive dashboards, and translating complex data into actionable insights for stakeholders. Strong expertise in digital marketing, product and e-commerce analytics.
+Hi! I am Shalini and I am a Data Analyst with over 3 years of experience at Tata Consultancy Services(TCS), delivering client-facing analytics solutions using SQL, Power BI, Excel, and Python. Experienced in gathering business requirements, building interactive dashboards, and translating complex data into actionable insights for stakeholders. Strong expertise in Banking and Financial Services.
 
 
 ## 🌐 Socials:
