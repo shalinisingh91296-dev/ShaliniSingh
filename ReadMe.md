@@ -39,7 +39,7 @@ I started my career journey back in December 2021 when I joined TCS as a fresher
 
 
 
-# Projects Built during unemplyoment
+# Projects Built During Unemplyoment
 1. Fruad Detection using Linear Regerssion and Random Forest
 
    https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
