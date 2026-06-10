@@ -67,9 +67,12 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
    https://github.com/shalinisingh91296-dev/Coffee_shop_sales
 
 4. Fern and Petals Sales dashboard using Excel
-
+   
    https://github.com/shalinisingh91296-dev/fnp_Sales_Performance
 
+5. Pizza Sales Performance Analysis using SQL, Joins, Window Functions CTEs
+
+    https://github.com/shalinisingh91296-dev/Pizza_hut_sales_performance_SQL
 
 ## Product Case Studies and Root Cause Analysis
 
