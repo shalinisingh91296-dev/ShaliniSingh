@@ -32,27 +32,6 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-# Projects at TCS
-## Project 1: Credit Risk Dashboard & Loan Portfolio Analytics  —  HDFC Bank Client 
-
-* Designed a multi-page Power BI dashboard tracking NPA rates, CIBIL score distribution, loan disbursements, and delinquency trends across product segments.
-* Built star-schema data model connecting 8 tables (loans, customers, branches, products, dates), wrote 35+ DAX measures including time-intelligence (YTD, MTD, rolling 12M).
-* Delivered actionable insights that helped the risk team reduce NPAs by 8% within two quarters by identifying high-risk loan segments early. 
-## Project 2: Fraud Detection Analytics  —  HDFC Bank Client 
-
-* Developed an ML anomaly detection model (Isolation Forest) on 2M+ banking transactions to identify fraud patterns and outliers.
-* Wrote SQL stored procedures to load flagged transactions into a review table, enabling compliance teams to act on alerts within 24 hours.
-* Visualized anomaly trends and flagging rates in a Power BI report, enabling the fraud team to monitor detection of accuracy over time. 
-
-## P&L Automation & MIS Reporting , TCS Internal
-
-* Replaced 15 manual Excel MIS reports with a Python-automated pipeline that extracts data from SQL Server, transforms it, and outputs formatted Excel workbooks.
-* Designed Excel templates with dynamic pivot tables, slicers, and conditional formatting for CFO-level P&L presentations.
-* Wrote VBA macros to auto-populate monthly commentary fields and protect sensitive financial cells, ensuring audit compliance.
-* Reduced P&L reporting cycle from 5 business days to same-day delivery, eliminating data entry errors entirely. 
-
-
-
 # Projects and Skills Built During Unemplyoment
 1. Fruad Detection using Linear Regerssion and Random Forest
 
