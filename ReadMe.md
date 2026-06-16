@@ -15,7 +15,13 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
 * Collaborated with project manager to lead daily scrum meetings, Production Releases and performed UAT, prepared release documents for regulatory authority and for internal audits.
 * Partnered with C-suite stakeholders to translate business requirements into analytical solutions, presenting data-driven insights that influenced $3M+ in strategic decisions.
 * Aligned KPI definitions with RBI regulatory guidelines in collaboration with the risk and compliance teams.
-*collaborated with cross-functional teams to evaluate CAC, CLV, Customer Retention Rate, and other essential metrics.
+* Performed data profiling and quality checks using SQL and Excel to validate source-to-target data integrity in ETL loads. 
+* collaborated with cross-functional teams to evaluate CAC, CLV, Customer Retention Rate, and other essential metrics.
+* Supported senior analysts in building Power BI reports for claims processing and underwriting performance tracking.
+* Assisted in documenting data dictionaries and data flow diagrams for the enterprise data warehouse project.
+* Completed internal TCS certification programs in Power BI, SQL, and Python fundamentals. 
+
+
 
 
 ## 🌐 Socials:
