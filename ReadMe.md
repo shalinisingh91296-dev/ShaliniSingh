@@ -39,23 +39,27 @@ I shifted my focus entirely on core Data Analytics and started working as a Data
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # Projects and Skills Built During Unemplyoment
-1. Fruad Detection using Linear Regerssion and Random Forest
+1.ShopSphere Retail – Executive E-Commerce Business Intelligence Dashboard( Power BI, SQL)
+
+   https://github.com/shalinisingh91296-dev/Business-Intelligence-Dashboard
+
+2. Fruad Detection using Linear Regerssion and Random Forest
 
    https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
 
-2. Customer Churn using Python
+3. Customer Churn using Python
 
    https://github.com/shalinisingh91296-dev/Customer_churn_python
 
-3. Coffee Shop sales dashboard using Excel, Power Pivot, and Power Query
+4. Coffee Shop sales dashboard using Excel, Power Pivot, and Power Query
 
    https://github.com/shalinisingh91296-dev/Coffee_shop_sales
 
-4. Fern and Petals Sales dashboard using Excel
+5. Fern and Petals Sales dashboard using Excel
    
    https://github.com/shalinisingh91296-dev/fnp_Sales_Performance
 
-5. Pizza Sales Performance Analysis using SQL, Joins, Window Functions CTEs
+6. Pizza Sales Performance Analysis using SQL, Joins, Window Functions CTEs
 
     https://github.com/shalinisingh91296-dev/Pizza_hut_sales_performance_SQL
 
