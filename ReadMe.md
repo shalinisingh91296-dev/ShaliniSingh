@@ -1,29 +1,6 @@
 # 💫 About Me:
 Hi! I am Shalini and I am a Data Analyst with 3+ years of experience at Tata Consultancy Services (TCS) transforming complex datasets into actionable business insights. Proficient in SQL, Power BI, Python, and Excel with a strong track record of building interactive dashboards, automating reports, and optimizing data pipelines across BFSI and retail domains. Adept at collaborating with cross-functional teams to deliver data-driven solutions that enhance operational efficiency and support business decision-making.
 
-I started my career journey back in December 2021 when I joined TCS as a fresher having zero knowledge about corporate culture. I initially worked as SQL and Python Developer and later on I decided to switch my career into data industry. I had worked as Junior Business Analyst where I supported UAT, BRD, FRD, and collaborated with Product Manger and Sr. Business Analyst for production releases, built reports for compliance authority and for internal audits and had prepared version control documents like FRD, BRD, RTM, and many more. 
-
-I shifted my focus entirely on core Data Analytics and started working as a Data Analyst. This role has given me immense satisfaction of the work I did in TCS. I am mentioning each and everything below that I learnt throughout my journey in TCS.
-
-* Designed and maintained 20+ interactive Power BI dashboards for senior stakeholders across Finance, Operations, and Supply Chain, reducing manual reporting effort by 40%.
-* Engineered Row-Level Security (RLS) and automated report distribution via Power BI REST API, ensuring 100% data governance compliance across 200+ end users.
-* Performed Data Reconciliation by comparing source and target datasets using SQL, Power BI and Excel, Mapped records from one system to another for accurate reporting and data consistency.
-* Wrote advanced SQL queries (CTEs, window functions, stored procedures, views) on SQL Server databases processing over 5 million records daily.
-* Performed Cohort analysis, Ad-hoc analysis, Variance analysis and forecasting as per Business Requirement.
-* Built and automated Excel-based MIS reports using Power Pivot and VBA macros, cutting monthly close cycle from 5 days to 1 day.
-* Performed data profiling and quality checks using SQL and Excel to validate source-to-target data integrity in ETL loads.
-* Collaborated with project manager to lead daily scrum meetings, Production Releases and performed UAT, prepared release documents for regulatory authority and for internal audits.
-* Partnered with C-suite stakeholders to translate business requirements into analytical solutions, presenting data-driven insights that influenced $3M+ in strategic decisions.
-* Aligned KPI definitions with RBI regulatory guidelines in collaboration with the risk and compliance teams.
-* Performed data profiling and quality checks using SQL and Excel to validate source-to-target data integrity in ETL loads. 
-* collaborated with cross-functional teams to evaluate CAC, CLV, Customer Retention Rate, and other essential metrics.
-* Supported senior analysts in building Power BI reports for claims processing and underwriting performance tracking.
-* Assisted in documenting data dictionaries and data flow diagrams for the enterprise data warehouse project.
-* Completed internal TCS certification programs in Power BI, SQL, and Python fundamentals. 
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shalini-singh-220563335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shalinisingh91296@gmail.com) 
 
