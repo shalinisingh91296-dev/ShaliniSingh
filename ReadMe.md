@@ -17,10 +17,6 @@ Hi! I am Shalini and I am a Data Analyst with 3+ years of experience at Tata Con
 
    https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
 
-3. Customer Churn using Python
-
-   https://github.com/shalinisingh91296-dev/Customer_churn_python
-
 4. Coffee Shop sales dashboard using Excel, Power Pivot, and Power Query
 
    https://github.com/shalinisingh91296-dev/Coffee_shop_sales
