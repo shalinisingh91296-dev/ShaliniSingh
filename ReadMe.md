@@ -9,7 +9,7 @@ Hi! I am Shalini and I am a Data Analyst with 3+ years of experience at Tata Con
 
 # Projects and Skills Built During Unemplyoment
 
- 1.ShopSphere Retail – Executive E-Commerce Business Intelligence Dashboard( Power BI, SQL)
+1. ShopSphere Retail – Executive E-Commerce Business Intelligence Dashboard( Power BI, SQL)
 
    https://github.com/shalinisingh91296-dev/Business-Intelligence-Dashboard
 
@@ -20,10 +20,6 @@ Hi! I am Shalini and I am a Data Analyst with 3+ years of experience at Tata Con
 3. Fruad Detection using Linear Regerssion and Random Forest
 
    https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
-
-4. Pizza Sales Performance Analysis using SQL, Joins, Window Functions CTEs
-
-    https://github.com/shalinisingh91296-dev/Pizza_hut_sales_performance_SQL
 
 ## Product Case Studies and Root Cause Analysis
 
