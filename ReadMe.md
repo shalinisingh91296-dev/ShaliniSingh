@@ -17,10 +17,6 @@ Hi! I am Shalini and I am a Data Analyst with 3+ years of experience at Tata Con
 
    https://github.com/shalinisingh91296-dev/Customer-Segment-SQL-
 
-3. Fruad Detection using Linear Regerssion and Random Forest
-
-   https://github.com/shalinisingh91296-dev/Fraud-Detection-ML-Project
-
 ## Product Case Studies and Root Cause Analysis
 
 1. Swiggy_case_study( Drop In Sales)
