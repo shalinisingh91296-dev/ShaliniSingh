@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I am Shalini and I am a Data Analyst with 3+ years of experience at Tata Consultancy Services (TCS) transforming complex datasets into actionable business insights. Proficient in SQL, Power BI, Python, and Excel with a strong track record of building interactive dashboards, automating reports, and optimizing data pipelines. Adept at collaborating with cross-functional teams to deliver data-driven solutions that enhance operational efficiency and support business decision-making.
+Hi! I am Shalini and I am a Data Analytics and Business Intelligence Professional with 3+ years of experience at Tata Consultancy Services (TCS) transforming complex datasets into actionable business insights. Proficient in SQL, Power BI, Python, and Excel with a strong track record of building interactive dashboards, automating reports, and optimizing data pipelines. Adept at collaborating with cross-functional teams to deliver data-driven solutions that enhance operational efficiency and support business decision-making.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shalini-singh-220563335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shalinisingh91296@gmail.com) 
