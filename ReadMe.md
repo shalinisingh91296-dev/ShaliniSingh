@@ -13,7 +13,7 @@ Hi! I am Shalini and I am a Data Analyst with 3+ years of experience at Tata Con
 
    https://github.com/shalinisingh91296-dev/Business-Intelligence-Dashboard
 
-2. Customer Segmentation Using SQL (RFM Analysis)
+2. Customer Segmentation Using SQL, Power BI
 
    https://github.com/shalinisingh91296-dev/Customer-Segment-SQL-
 
