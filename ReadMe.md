@@ -43,8 +43,7 @@ Hi! I am Shalini and I am a Data Analytics and Business Intelligence Professiona
 6. Hypothesis Testing
 7. Regression
 8. Correlation and Causation
-   
-https://github.com/shalinisingh91296-dev/Cohort_analysis
+
 
 ## Certifications
 
